@@ -1,7 +1,7 @@
 site_name: Robotprogramozás ROS környezetben
 site_url: https://example.com/
 site_description: Robotprogramozás ROS környezetben
-site_author: Nagy Tamás
+site_author: Levendovics Tamás
 
 nav:
     - Kezdőlap: index.md

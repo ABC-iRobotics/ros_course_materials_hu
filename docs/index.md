@@ -2,13 +2,13 @@
 
 ---
 ### Tárgyfelelős
-Dr. Galambos Péter    
+Prof. Dr. Galambos Péter    
 [peter.galambos@irob.uni-obuda.hu](mailto:peter.galambos@irob.uni-obuda.hu)
 
 ---
 
 ### Oktatók
-Nagy Tamás    
+Dr. Levendovics Tamás    
 [tamas.daniel.nagy@irob.uni-obuda.hu](mailto:tamas.daniel.nagy@irob.uni-obuda.hu)
 
 Détár Borsa    
