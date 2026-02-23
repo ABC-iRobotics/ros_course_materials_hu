@@ -2,7 +2,7 @@
 
 !!! warning "Fejlesztés alatt"
 Ez az oldal éppen készül.  
-A teljes és legfrissebb információkért kérjük, látogasson el a **magyar** oldalra.
+A teljes és legfrissebb információkért kérjük, látogasson el az **angol** oldalra.
 
 [➡️ Menj az angol oldalra](https://abc-irobotics.github.io/ros_course_materials_en/)
 
