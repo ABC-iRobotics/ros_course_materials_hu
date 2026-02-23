@@ -4,7 +4,7 @@
 Ez az oldal éppen készül.  
 A teljes és legfrissebb információkért kérjük, látogasson el a **magyar** oldalra.
 
-[➡️ Menj a magyar oldalra](https://abc-irobotics.github.io/ros_course_materials_hu/)
+[➡️ Menj az angol oldalra](https://abc-irobotics.github.io/ros_course_materials_en/)
 
 
 ## Kurzussal kapcsolatos információk
